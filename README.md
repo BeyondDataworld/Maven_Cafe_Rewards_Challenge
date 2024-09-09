@@ -1,12 +1,10 @@
-<h4>As a Senior Markketing Analyst, my tas was to use data to analyse how effective has been the 30-day test of rolling out promotional offers to cuustomer.
-
 Relevant insights that were drawn from the data provided in the tables:
 
-Customers (Demographic data for customers)
+- Customers (Demographic data for customers)
 
-Events (Data on customer activity, with records for transaction, offer received, viewed and completed).
+- Events (Data on customer activity, with records for transaction, offer received, viewed and completed).
 
-Offers (Details on the offers sent to customers during 30-day period)
+- Offers (Details on the offers sent to customers during 30-day period)
 
 Insights:
 
